@@ -15,7 +15,11 @@ font-family: Arial, Helvetica, sans-serif;
     width: 390px;
     
 }
-
+    #Total_Amount{
+        text-align: center;
+        margin-top: 30px;
+        margin-left: -10px;
+    }
 #darkmode{
     border-radius: 40px;
     margin-left: 140px;
