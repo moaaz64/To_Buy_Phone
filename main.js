@@ -15,6 +15,6 @@ darkmode.onclick = function(){
 
 alnateg.onclick = function(){
 
-alert(money.value * 20 / 100 * years.value + money.value);
+Total_Amount.innerHTML = money.value * 20 / 100 * years.value + money.value;
 
 }
