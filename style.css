@@ -1,0 +1,38 @@
+body{
+justify-self: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+#money{
+    border: none;
+    font-size: 30px;
+    text-align: center;
+}
+#years{
+    border: none;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    width: 390px;
+    
+}
+
+#darkmode{
+    border-radius: 40px;
+    margin-left: 140px;
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    
+}
+#darkmode::before{
+    content: 'Drakmode';
+}
+.alnateg{
+    border-radius: 40px;
+    width: 100px;
+    height: 40px;
+    margin-left: 140px;
+    margin-top: 30px;
+    cursor: pointer;
+}
